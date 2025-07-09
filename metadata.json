@@ -1,0 +1,6 @@
+{
+  "name": "AI-Avengers",
+  "description": "An AI-powered web application to automate the creation of YouTube video content. Describe any topic, and the AI will generate a script, thumbnail, and title, all managed through an intuitive dashboard and chatbot interface.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
